@@ -1,13 +1,13 @@
 # Static Website Deployment on EC2 with Nginx, HTTPS & CI/CD
 
-## 📌 Overview
+##  Overview
 This project demonstrates the end-to-end deployment of a production-ready static website on an AWS EC2 instance using **Nginx** as the web server, secured with **HTTPS (Let’s Encrypt)**, and automated with **GitHub Actions CI/CD**.
 
 Any change pushed to the GitHub repository is automatically deployed to the live server without manual file transfer or server login.
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 The deployment architecture follows this flow:
 
 - Developer pushes code to GitHub
@@ -18,7 +18,7 @@ The deployment architecture follows this flow:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **AWS EC2** – Compute instance hosting the website
 - **Ubuntu Linux** – Server operating system
 - **Nginx** – Web server
@@ -29,7 +29,7 @@ The deployment architecture follows this flow:
 
 ---
 
-## 🚀 Deployment Flow
+##  Deployment Flow
 1. Provisioned an EC2 instance on AWS
 2. Installed and configured Nginx
 3. Created a custom project directory under `/var/www`
@@ -42,7 +42,7 @@ The deployment architecture follows this flow:
 
 ---
 
-## 🔄 CI/CD Pipeline Details
+##  CI/CD Pipeline Details
 - **Trigger:** Push to the `main` branch
 - **Pipeline Steps:**
   - Checkout repository
@@ -52,7 +52,7 @@ The deployment architecture follows this flow:
 
 ---
 
-## 🔐 Security Considerations
+##  Security Considerations
 - SSH key-based authentication (no passwords)
 - Private SSH keys stored securely in GitHub Secrets
 - HTTPS enforced to encrypt all traffic
@@ -60,7 +60,7 @@ The deployment architecture follows this flow:
 
 ---
 
-## ⚠️ Challenges & Solutions
+##  Challenges & Solutions
 
 ### Permission Denied During CI/CD Deployment
 **Issue:**  
