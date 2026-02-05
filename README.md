@@ -78,7 +78,7 @@ This resolved the permission issue without compromising security.
 
 
 
-## Screenshots
+ Screenshots
 
 EC2 Instance Running
 
@@ -88,7 +88,8 @@ Live Website with HTTPS
 
 GitHub Actions CI/CD Pipeline
 
-## Key Learnings
+
+ Key Learnings
 
 CI/CD pipelines depend heavily on correct Linux permissions
 
@@ -98,7 +99,8 @@ HTTPS is essential for production-ready applications
 
 Automation eliminates manual deployment errors and inconsistencies
 
-## Author
+
+ Author
 
 Onyedika Okoro
 
