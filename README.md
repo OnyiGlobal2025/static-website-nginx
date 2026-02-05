@@ -74,8 +74,8 @@ Updated directory ownership to allow automated deployments:
 ```bash
 sudo chown -R ubuntu:ubuntu /var/www/okorojeremiah
 
-
 This resolved the permission issue without compromising security.
+
 
 
 ## Screenshots
@@ -102,4 +102,4 @@ Automation eliminates manual deployment errors and inconsistencies
 
 Onyedika Okoro
 
-Cloud & DevOps Engineer
+Cloud/DevOps Engineer
