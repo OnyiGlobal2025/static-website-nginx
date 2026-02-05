@@ -74,26 +74,32 @@ Updated directory ownership to allow automated deployments:
 ```bash
 sudo chown -R ubuntu:ubuntu /var/www/okorojeremiah
 
-## 📷 Screenshots
 
-### EC2 Instance Running
-![EC2 Running](screenshots/ec2-running.png)
+This resolved the permission issue without compromising security.
 
-### Nginx Web Server
-![Nginx Page](screenshots/nginx-page.png)
 
-### Live Website with HTTPS
-![HTTPS Enabled](screenshots/https-domain.png)
+## Screenshots
 
-### GitHub Actions CI/CD Pipeline
-![CI/CD Success](screenshots/github-actions-success.png)
+EC2 Instance Running
+
+Nginx Web Server
+
+Live Website with HTTPS
+
+GitHub Actions CI/CD Pipeline
 
 ## Key Learnings
-- CI/CD requires correct Linux permissions
-- Separate project directories improve maintainability
-- HTTPS is essential for production systems
-- Automation reduces deployment errors
+
+CI/CD pipelines depend heavily on correct Linux permissions
+
+Separating project directories improves maintainability and security
+
+HTTPS is essential for production-ready applications
+
+Automation eliminates manual deployment errors and inconsistencies
 
 ## Author
-   Onyedika Okoro
-   Cloud/DevOps Engineer
+
+Onyedika Okoro
+
+Cloud & DevOps Engineer
