@@ -100,7 +100,7 @@ HTTPS is essential for production-ready applications
 Automation eliminates manual deployment errors and inconsistencies
 
 
- Author
+Author
 
 Onyedika Okoro
 
