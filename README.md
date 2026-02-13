@@ -83,13 +83,13 @@ This resolved the permission issue without compromising security.
 ![Ec2 Running](/screenshots/Ec2-running.png)
 
 
-![Github Actions](/screenshots/github-actions-success.png)
-
-
 ![Nginx Page](/screenshots/nginx-page.png)
 
 
 ![Https Domain](/screenshots/https-domain.png)
+
+
+![Github Actions](/screenshots/github-actions-success.png)
 
 
 
