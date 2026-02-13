@@ -80,13 +80,18 @@ This resolved the permission issue without compromising security.
 
 ## Screenshots
 
-EC2 Instance Running
+![Ec2 Running](/screenshots/Ec2-running.png)
 
-Nginx Web Server
 
-Live Website with HTTPS
+![Github Actions](/screenshots/github-actions-success.png)
 
-GitHub Actions CI/CD Pipeline
+
+![Https Domain](/screenshots/https-domain.png)
+
+
+![Nginx page](/screenshots/nginx-page.png)
+
+
 
 
 ## Key Learnings
