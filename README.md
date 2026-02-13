@@ -86,10 +86,10 @@ This resolved the permission issue without compromising security.
 ![Github Actions](/screenshots/github-actions-success.png)
 
 
+![Nginx Page](/screenshots/nginx-page.png)
+
+
 ![Https Domain](/screenshots/https-domain.png)
-
-
-![Nginx page](/screenshots/nginx-page.png)
 
 
 
