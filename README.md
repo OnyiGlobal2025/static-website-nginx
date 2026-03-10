@@ -1,5 +1,14 @@
 # Static Website Deployment on EC2 with Nginx, HTTPS & CI/CD
 
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange?logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-009639?logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?logo=ubuntu&logoColor=white)
+![HTTPS](https://img.shields.io/badge/HTTPS-Secured-green)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Deployment](https://img.shields.io/badge/Deployment-Automated-success)
+
+
+
 ##  Overview
 This project demonstrates the end-to-end deployment of a production-ready static website on an AWS EC2 instance using **Nginx** as the web server, secured with **HTTPS (Let’s Encrypt)**, and automated with **GitHub Actions CI/CD**.
 
